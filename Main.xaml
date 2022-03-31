@@ -82,6 +82,6 @@
         <OutArgument x:TypeArguments="x:String" x:Key="Argument2">[variable2]</OutArgument>
       </ui:InvokeCode.Arguments>
     </ui:InvokeCode>
-    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="334,62.6666666666667" sap2010:WorkflowViewState.IdRef="WriteLine_3" Text="you are a man" />
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="334,62.6666666666667" sap2010:WorkflowViewState.IdRef="WriteLine_3" Text="you are a girl" />
   </Sequence>
 </Activity>
